@@ -5,7 +5,7 @@ This code shows not a simply code structure using: print "hello world", it goes 
 
 The purpose of the creation for this code is to make sure all the tools such as VS Code, Git and GitHub are properly set up for upcoming projects.
 
-[Software Demo Video](youtube)
+[Software Demo Video](https://youtu.be/UjE-bS4v7ks)
 
 # Development Environment
 - **Language:** Python  
